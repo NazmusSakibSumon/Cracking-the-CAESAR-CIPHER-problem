@@ -1,6 +1,6 @@
 The Caesar cipher is an ancient encryption algorithm used by Julius Caesar. 
 
-It encrypts letters by shifting them over by a certain number of places in the alphabet. 
+We can both encrypt and decrypt, or just encrypt or decrypt using this code. 
 
 We call the length of shift the key. For example, if the key is 3, then A becomes D, B becomes E, C becomes F, and so on. 
 
